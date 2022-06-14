@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'João Victor Cunha',
   headerTitle: 'Fast and Curious',
   description:
-    'Um blog para ajudar alunos a aplicabilidade as matérias da faculdade no mercado de trabalho',
+    'Um blog para contextualizar conteúdos e ferramentas mostradas em sala relacionados ao mercado de trabalho',
   language: 'pt-br',
   theme: 'system', // system, dark or light
   siteUrl: 'fast-and-curious.vercel.app',
