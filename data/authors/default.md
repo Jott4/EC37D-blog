@@ -1,16 +1,6 @@
 ---
-name: Tails Azimuth
+name: Fast and curious
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+O objetivo do projeto é contextualizar conteúdos e ferramentas mostradas em sala relacionados ao mercado de trabalho (onde são aplicados os conteúdos de forma prática), auxiliando o aluno na correlação entre a teoria e a prática das disciplinas. O produto rendido ao final do projeto será um acervo de conteúdos que relacionam diretamente as disciplinas com cases do mercado de trabalho. Esse acervo ficará disponível tanto para os alunos utilizarem em seus estudos, quanto para os professores utilizarem em sala de aula.
